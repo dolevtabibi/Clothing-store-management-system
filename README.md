@@ -45,7 +45,7 @@ Contributions to the Inventory Desktop App are welcome! If you find any bugs, ha
 
 ## Contact
 
-For any questions, concerns, or inquiries, please contact the development team at [your-email@example.com](mailto:your-email@example.com).
+For any questions, concerns, or inquiries, please contact the development team at [dolevtabibi@gmail.com](mailto:dolevtabibi@gmail.com).
 
 ## Screenshots:
 ![image](https://github.com/dolevtabibi/Clothing-store-management-system/assets/88586308/034a58b6-5fe8-45ca-a7f1-660f0842b0d7)
