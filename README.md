@@ -50,6 +50,7 @@ For any questions, concerns, or inquiries, please contact the development team a
 
 ## Screenshots:
 ![image](https://github.com/dolevtabibi/Clothing-store-management-system/assets/88586308/034a58b6-5fe8-45ca-a7f1-660f0842b0d7)
+![image](https://github.com/dolevtabibi/Clothing-store-management-system/assets/88586308/789e733c-cb94-4f82-847d-89402d3f1c55)
 ![image](https://github.com/dolevtabibi/Clothing-store-management-system/assets/88586308/669e7d40-131a-4945-9b1e-aacdefe97062)
 ![image](https://github.com/dolevtabibi/Clothing-store-management-system/assets/88586308/78e32da6-502b-41f3-bb83-f378ec18f667)
 ![image](https://github.com/dolevtabibi/Clothing-store-management-system/assets/88586308/f11fdf4e-fdcb-42d8-af2c-c1f4d32d0622)
@@ -58,4 +59,3 @@ For any questions, concerns, or inquiries, please contact the development team a
 ![image](https://github.com/dolevtabibi/Clothing-store-management-system/assets/88586308/68636eb1-178d-4df3-b7e0-7ea9969704f3)
 ![image](https://github.com/dolevtabibi/Clothing-store-management-system/assets/88586308/3fe1a146-6dbf-4d6d-8b49-f2fe237ee425)
 ![image](https://github.com/dolevtabibi/Clothing-store-management-system/assets/88586308/7419c6b5-09ef-4e4f-8b5f-954544cad53c)
-![image](https://github.com/dolevtabibi/Clothing-store-management-system/assets/88586308/789e733c-cb94-4f82-847d-89402d3f1c55)
