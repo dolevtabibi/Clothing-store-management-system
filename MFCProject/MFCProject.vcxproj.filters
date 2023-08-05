@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\The MFC FILES">
+      <UniqueIdentifier>{7beba808-97e5-47f0-a057-3a6ce31c91bb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\The MFC FILES">
+      <UniqueIdentifier>{2d3830fe-d210-4357-bdcf-df741a1804eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\The Project">
+      <UniqueIdentifier>{df956164-a52b-41e5-a0f1-110ba4fa02a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\The Project">
+      <UniqueIdentifier>{0c388920-509a-4c82-bb32-6b37e83d23ee}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="framework.h">
+      <Filter>Header Files\The MFC FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>Header Files\The MFC FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>Header Files\The MFC FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files\The MFC FILES</Filter>
+    </ClInclude>
+    <ClInclude Include="dataStoring.h">
+      <Filter>Header Files\The Project</Filter>
+    </ClInclude>
+    <ClInclude Include="DelWorker.h">
+      <Filter>Header Files\The Project</Filter>
+    </ClInclude>
+    <ClInclude Include="FillWorker.h">
+      <Filter>Header Files\The Project</Filter>
+    </ClInclude>
+    <ClInclude Include="GlobalEmployee.h">
+      <Filter>Header Files\The Project</Filter>
+    </ClInclude>
+    <ClInclude Include="Managers.h">
+      <Filter>Header Files\The Project</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCProject.h">
+      <Filter>Header Files\The Project</Filter>
+    </ClInclude>
+    <ClInclude Include="MFCProjectDlg.h">
+      <Filter>Header Files\The Project</Filter>
+    </ClInclude>
+    <ClInclude Include="Pants.h">
+      <Filter>Header Files\The Project</Filter>
+    </ClInclude>
+    <ClInclude Include="PerHour.h">
+      <Filter>Header Files\The Project</Filter>
+    </ClInclude>
+    <ClInclude Include="Products.h">
+      <Filter>Header Files\The Project</Filter>
+    </ClInclude>
+    <ClInclude Include="Shirts.h">
+      <Filter>Header Files\The Project</Filter>
+    </ClInclude>
+    <ClInclude Include="Storage.h">
+      <Filter>Header Files\The Project</Filter>
+    </ClInclude>
+    <ClInclude Include="Workers.h">
+      <Filter>Header Files\The Project</Filter>
+    </ClInclude>
+    <ClInclude Include="Owner.h">
+      <Filter>Header Files\The Project</Filter>
+    </ClInclude>
+    <ClInclude Include="COpenCompany.h">
+      <Filter>Header Files\The Project</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files\The MFC FILES</Filter>
+    </ClCompile>
+    <ClCompile Include="dataStoring.cpp">
+      <Filter>Source Files\The Project</Filter>
+    </ClCompile>
+    <ClCompile Include="DelWorker.cpp">
+      <Filter>Source Files\The Project</Filter>
+    </ClCompile>
+    <ClCompile Include="FillWorker.cpp">
+      <Filter>Source Files\The Project</Filter>
+    </ClCompile>
+    <ClCompile Include="GlobalEmployee.cpp">
+      <Filter>Source Files\The Project</Filter>
+    </ClCompile>
+    <ClCompile Include="Managers.cpp">
+      <Filter>Source Files\The Project</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCProjectDlg.cpp">
+      <Filter>Source Files\The Project</Filter>
+    </ClCompile>
+    <ClCompile Include="Products.cpp">
+      <Filter>Source Files\The Project</Filter>
+    </ClCompile>
+    <ClCompile Include="Shirts.cpp">
+      <Filter>Source Files\The Project</Filter>
+    </ClCompile>
+    <ClCompile Include="Storage.cpp">
+      <Filter>Source Files\The Project</Filter>
+    </ClCompile>
+    <ClCompile Include="Workers.cpp">
+      <Filter>Source Files\The Project</Filter>
+    </ClCompile>
+    <ClCompile Include="MFCProject.cpp">
+      <Filter>Source Files\The Project</Filter>
+    </ClCompile>
+    <ClCompile Include="Pants.cpp">
+      <Filter>Source Files\The Project</Filter>
+    </ClCompile>
+    <ClCompile Include="PerHour.cpp">
+      <Filter>Source Files\The Project</Filter>
+    </ClCompile>
+    <ClCompile Include="Owner.cpp">
+      <Filter>Source Files\The Project</Filter>
+    </ClCompile>
+    <ClCompile Include="COpenCompany.cpp">
+      <Filter>Source Files\The Project</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MFCProject.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\MFCProject.rc2">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\MFCProject.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\..\..\..\Desktop\seo-social-web-network-internet_262_icon-icons.com_61518.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="iconDel.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
