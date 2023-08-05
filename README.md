@@ -1,4 +1,5 @@
 # Inventory Desktop App (C++, MFC)
+![image](https://github.com/dolevtabibi/Clothing-store-management-system/assets/88586308/98c274e4-4ae0-467f-9504-64ff67b1e5bb)
 
 ## Overview
 
@@ -49,7 +50,6 @@ For any questions, concerns, or inquiries, please contact the development team a
 
 ## Screenshots:
 ![image](https://github.com/dolevtabibi/Clothing-store-management-system/assets/88586308/034a58b6-5fe8-45ca-a7f1-660f0842b0d7)
-![image](https://github.com/dolevtabibi/Clothing-store-management-system/assets/88586308/98c274e4-4ae0-467f-9504-64ff67b1e5bb)
 ![image](https://github.com/dolevtabibi/Clothing-store-management-system/assets/88586308/669e7d40-131a-4945-9b1e-aacdefe97062)
 ![image](https://github.com/dolevtabibi/Clothing-store-management-system/assets/88586308/78e32da6-502b-41f3-bb83-f378ec18f667)
 ![image](https://github.com/dolevtabibi/Clothing-store-management-system/assets/88586308/f11fdf4e-fdcb-42d8-af2c-c1f4d32d0622)
